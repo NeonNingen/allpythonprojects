@@ -1,0 +1,3 @@
+Q3) Which CPU would be faster between these two?
+1) Intel Core i7 3.2GHZ 8 Cores and 3GB Cache Memory
+2) Intel Core i5 3GHZ 6 Cores and 4GB Cache Memory	

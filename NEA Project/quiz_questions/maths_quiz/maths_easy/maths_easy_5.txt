@@ -1,0 +1,3 @@
+Q5) What graph has frequency density? 
+1) Histogram Graphs
+2) Cumulative Frequency Graphs

@@ -1,0 +1,3 @@
+Q4) Which is better RAM or CACHE 
+1) RAM
+2) CACHE

@@ -1,0 +1,4 @@
+Q2) If I have a number, add 2 and then divide it by 6 and then answer is 12. 
+What was the number I was thinking of?
+1) 70
+2) 72	

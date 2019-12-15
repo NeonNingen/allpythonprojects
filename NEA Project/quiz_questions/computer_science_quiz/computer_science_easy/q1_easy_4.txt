@@ -1,0 +1,5 @@
+Sadly, your incorrect. It is a common mistake made by commoners such as
+yourself. RAM is slower at transferring data to CPU because CACHE is
+basically one with the CPU so the register are basically 2 steps away.
+You lost 10 points :(
+Your Percentage Reduced...
